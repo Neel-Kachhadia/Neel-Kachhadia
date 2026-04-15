@@ -64,7 +64,11 @@ AI Systems · Fintech · Real-time Data Systems · Scalable Backend Architecture
 
 ### 🧠 NeuroFin — AI Financial Assistant
 
-AI-powered financial co-pilot for forecasting and decision support
+An AI-powered financial co-pilot that enables **conversational forecasting and decision support** using multi-step reasoning workflows.
+
+* Designed LangGraph-based pipelines for structured financial reasoning
+* Built an adaptive feedback system to refine predictions across sessions
+* Deployed serverless backend on AWS Lambda with sub-200ms latency under load
 
 🔗 https://github.com/Neel-Kachhadia/NeuroFin
 🎥 https://youtu.be/e44duKUrC7k
@@ -73,7 +77,11 @@ AI-powered financial co-pilot for forecasting and decision support
 
 ### 📊 Equity Research Platform
 
-Real-time stock analysis platform with scalable backend
+A real-time equity analysis system that processes live market data and generates **AI-driven financial insights**.
+
+* Engineered high-throughput data pipelines for continuous market data processing
+* Built modular FastAPI backend enabling scalable, stateless API services
+* Implemented AI workflows for structured stock analysis and recommendations
 
 🔗 https://github.com/Neel-Kachhadia/Equity-research-platform
 
@@ -81,11 +89,14 @@ Real-time stock analysis platform with scalable backend
 
 ### 🧠 Mentora — AI Mentor Platform
 
-LLM-powered mentor matching system with real-time communication
+An intelligent mentorship platform that uses LLMs to match users and deliver **personalized learning experiences**.
+
+* Developed semantic matching system using embeddings for mentor-mentee pairing
+* Implemented real-time chat with low-latency communication via Firebase
+* Designed adaptive learning paths based on user progress and goals
 
 🔗 https://github.com/Neel-Kachhadia/Mentore-Mentee-Platform
 
----
 
 ## 🛠 Tech Stack
 
