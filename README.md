@@ -1,48 +1,39 @@
 # Hi, I'm Neel 👋
 
-AI + Full-stack engineer building intelligent financial systems.
+I build intelligent systems at the intersection of **AI, finance, and scalable backend architecture**.
+
+Currently exploring:
+
+* AI-driven financial systems
+* Quantitative thinking in markets
+* Designing low-latency, real-time systems
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 What I’m focused on
 
-### 🧠 NeuroFin — AI Financial Assistant
+I’m interested in building systems that:
 
-* Conversational financial forecasting
-* LangGraph-based reasoning workflows
-* AWS serverless backend
-
-🔗 GitHub: https://github.com/Neel-Kachhadia/NeuroFin
-🎥 Demo: https://youtu.be/e44duKUrC7k
+* process high-frequency data efficiently
+* make decisions using multi-step reasoning
+* combine machine learning with real-world financial workflows
 
 ---
 
-### 📊 Equity Research Platform
+## ⚙️ Tech I work with
 
-* Real-time financial insights
-* High-throughput data pipelines
-* Scalable FastAPI backend
-
-🔗 https://github.com/Neel-Kachhadia/Equity-research-platform
+Python · JavaScript · FastAPI · React · LangGraph · AWS
 
 ---
 
-### 🧑‍🏫 Mentora
+## 🚀 Selected Work
 
-* AI-powered mentor matching
-* Real-time chat system
-* Personalized learning paths
-
-🔗 https://github.com/Neel-Kachhadia/Mentore-Mentee-Platform
+* NeuroFin — AI financial assistant for forecasting and decision support
+* Equity Research Platform — real-time stock analysis system
+* Mentora — AI-powered mentor matching platform
 
 ---
 
-## ⚙️ Tech Stack
+## 📫 Reach me
 
-Python | JavaScript | FastAPI | React | LangGraph | AWS
-
----
-
-## 📫 Reach Me
-
-LinkedIn: https://www.linkedin.com/in/neelkachhadia/
+[LinkedIn](https://www.linkedin.com/in/neelkachhadia/)
