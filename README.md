@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Neel 👋
 
-<!--
-**Neel-Kachhadia/Neel-Kachhadia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI + Full-stack engineer building intelligent financial systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🧠 NeuroFin — AI Financial Assistant
+
+* Conversational financial forecasting
+* LangGraph-based reasoning workflows
+* AWS serverless backend
+
+🔗 GitHub: https://github.com/Neel-Kachhadia/NeuroFin
+🎥 Demo: https://youtu.be/e44duKUrC7k
+
+---
+
+### 📊 Equity Research Platform
+
+* Real-time financial insights
+* High-throughput data pipelines
+* Scalable FastAPI backend
+
+🔗 https://github.com/Neel-Kachhadia/Equity-research-platform
+
+---
+
+### 🧑‍🏫 Mentora
+
+* AI-powered mentor matching
+* Real-time chat system
+* Personalized learning paths
+
+🔗 https://github.com/Neel-Kachhadia/Mentore-Mentee-Platform
+
+---
+
+## ⚙️ Tech Stack
+
+Python | JavaScript | FastAPI | React | LangGraph | AWS
+
+---
+
+## 📫 Reach Me
+
+LinkedIn: https://www.linkedin.com/in/neelkachhadia/
