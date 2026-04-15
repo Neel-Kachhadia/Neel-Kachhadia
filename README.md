@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK_HERE" />
-</p>
-
 <h1 align="center">Hi, I'm Neel 👋</h1>
 
 <p align="center">
