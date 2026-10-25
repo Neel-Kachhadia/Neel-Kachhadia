@@ -138,7 +138,7 @@ def render_poll(s):
     out = ["| | Vote | Momentum |", "|:--|:--:|:--|"]
     for k, label in POLL.items():
         n = s["votes"][k]
-        bar = "█" * round(n / total * 20) + "░" * (20 - round(n / total * 20))
+        bar = "█" * round(n / total * 12) + "░" * (12 - round(n / total * 12))
         link = issue_link(f"vote|{k}", "Press **Create** to cast your vote 🗳️. One vote per person.")
         out.append(f"| {label} | [**Vote →**]({link}) | `{bar}` {n} |")
     return "\n".join(out)
