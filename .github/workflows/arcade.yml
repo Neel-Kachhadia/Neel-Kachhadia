@@ -1,0 +1,55 @@
+name: Profile Arcade
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: arcade
+  cancel-in-progress: false
+
+jobs:
+  play:
+    if: startsWith(github.event.issue.title, 'ttt|') || startsWith(github.event.issue.title, 'vote|') || github.event.issue.title == 'wave'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Process interaction
+        env:
+          TITLE: ${{ github.event.issue.title }}
+          USER_LOGIN: ${{ github.event.issue.user.login }}
+          REPO: ${{ github.repository }}
+          REPLY_FILE: ${{ runner.temp }}/reply.md
+        run: python arcade/arcade.py
+
+      - name: Commit board
+        env:
+          USER_LOGIN: ${{ github.event.issue.user.login }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md arcade/state.json
+          git diff --cached --quiet || git commit -m "🎮 arcade move by @${USER_LOGIN}"
+          git push
+
+      - name: Reply and close
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE: ${{ github.event.issue.number }}
+          REPO: ${{ github.repository }}
+          REPLY_FILE: ${{ runner.temp }}/reply.md
+        run: |
+          if [ -f "$REPLY_FILE" ]; then
+            gh issue close "$ISSUE" -R "$REPO" --comment "$(cat "$REPLY_FILE")"
+          else
+            gh issue close "$ISSUE" -R "$REPO" --comment "🤔 I didn't understand that one. Head back to the profile and try a button!"
+          fi
