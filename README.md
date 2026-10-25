@@ -24,17 +24,3 @@
 </picture>
 
 <p align="right"><sub>My GitHub contribution graph, played as Breakout.</sub></p>
-
-<br>
-
-<details>
-<summary><sub>COLOPHON</sub></summary>
-<br>
-
-Set in Instrument Serif and JetBrains Mono, subset and embedded in hand-written SVG. The portrait is my avatar, cut out and reduced to 1-bit with Floyd–Steinberg dithering. Every piece adapts to light and dark mode.
-
-The Breakout level is generated from my real contribution graph by [pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph), rebuilt every night by a GitHub Action.
-
-The longer version of all this lives at [neel-os.vercel.app](https://neel-os.vercel.app).
-
-</details>
