@@ -1,4 +1,4 @@
-<a href="https://neel-os.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v3/hero-d.svg"><img src="assets/v3/hero-l.svg" width="100%" alt="Neel Kachhadia, systems engineer. I build software where milliseconds and money both matter: RPC routers, inference runtimes, trading terminals, and guardrails for AI that spends."></picture></a>
+<a href="https://neel-os.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v3/hero-v2-d.svg"><img src="assets/v3/hero-v2-l.svg" width="100%" alt="Neel Kachhadia, systems engineer. I build software where milliseconds and money both matter: RPC routers, inference runtimes, trading terminals, and guardrails for AI that spends."></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/v3/marquee-d.svg"><img src="assets/v3/marquee-l.svg" width="100%" alt="ARTC, InferScale, KavachPay, BharatTerminal, FleetRight, NeuroFin"></picture>
 
