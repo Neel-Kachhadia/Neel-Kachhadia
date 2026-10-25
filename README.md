@@ -16,14 +16,14 @@
 
 <br><br>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/v3/sec-03-d.svg"><img src="assets/v3/sec-03-l.svg" width="100%" alt="(03) Last year, played. My contribution graph as a Breakout level, rebuilt daily."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/v3/sec-03-commits-d.svg"><img src="assets/v3/sec-03-commits-l.svg" width="100%" alt="(03) A year of commits. Every brick is a day I shipped code."></picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Neel-Kachhadia/Neel-Kachhadia/output/breakout-contribution-graph-dark.svg">
   <img src="https://raw.githubusercontent.com/Neel-Kachhadia/Neel-Kachhadia/output/breakout-contribution-graph.svg" width="100%" alt="My GitHub contribution graph being played as a game of Breakout. Every brick is a day I shipped code.">
 </picture>
 
-<p align="right"><sub>Every brick is a day I shipped. The ball doesn't miss.</sub></p>
+<p align="right"><sub>My GitHub contribution graph, played as Breakout.</sub></p>
 
 <br>
 
