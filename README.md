@@ -1,220 +1,53 @@
-<div align="center">
+<a href="https://neel-os.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v3/hero-d.svg"><img src="assets/v3/hero-l.svg" width="100%" alt="Neel Kachhadia, systems engineer. I build software where milliseconds and money both matter: RPC routers, inference runtimes, trading terminals, and guardrails for AI that spends."></picture></a>
 
-<a href="https://neel-os.vercel.app"><img src="assets/hero.svg" width="100%" alt="Neel Kachhadia: I build low-latency systems, AI agents and tools for traders"/></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/v3/marquee-d.svg"><img src="assets/v3/marquee-l.svg" width="100%" alt="ARTC, InferScale, KavachPay, BharatTerminal, FleetRight, NeuroFin"></picture>
 
-<a href="https://neel-os.vercel.app"><img src="assets/boot.svg" width="340" alt="Boot Neel.OS"/></a>
+<p align="right"><sub><a href="https://neel-os.vercel.app">neel-os.vercel.app&nbsp;&#8599;</a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/neelkachhadia/">LinkedIn&nbsp;&#8599;</a></sub></p>
 
-<sub>☝️ that's my portfolio, rebuilt as an operating system. Go click around.</sub>
+<br>
 
-<br/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/v3/sec-02-d.svg"><img src="assets/v3/sec-02-l.svg" width="100%" alt="(02) Selected work"></picture>
+<a href="https://github.com/Neel-Kachhadia/ARTC"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v3/row-01-d.svg"><img src="assets/v3/row-01-l.svg" width="100%" alt="01 ARTC. C++23 gRPC tail-latency controller. p99 1.73 ms."></picture></a>
+<a href="https://github.com/Neel-Kachhadia/InferScale"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v3/row-02-d.svg"><img src="assets/v3/row-02-l.svg" width="100%" alt="02 InferScale. Single-GPU LLM inference runtime. TTFT p99 442 ms."></picture></a>
+<a href="https://github.com/Neel-Kachhadia/KavachPay"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v3/row-03-d.svg"><img src="assets/v3/row-03-l.svg" width="100%" alt="03 KavachPay. Control plane for AI agent payments."></picture></a>
+<a href="https://github.com/Neel-Kachhadia/indian-terminal"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v3/row-04-d.svg"><img src="assets/v3/row-04-l.svg" width="100%" alt="04 BharatTerminal. Local-first terminal for NSE F&amp;O."></picture></a>
+<a href="https://github.com/Neel-Kachhadia/FleetRight"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v3/row-05-d.svg"><img src="assets/v3/row-05-l.svg" width="100%" alt="05 FleetRight. SLO-constrained capacity optimizer."></picture></a>
+<a href="https://github.com/Neel-Kachhadia/NeuroFin"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v3/row-06-d.svg"><img src="assets/v3/row-06-l.svg" width="100%" alt="06 NeuroFin. Agentic personal-finance co-pilot."></picture></a>
 
-<a href="https://www.linkedin.com/in/neelkachhadia/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=Neel-Kachhadia&style=flat-square&color=a78bfa&label=explorers+so+far" />
+<br><br>
 
-</div>
-
-<img src="assets/pulse.svg" width="100%"/>
-
-## 🎮 This profile is alive. Play with it.
-
-<h3 align="center">⚔️ Beat my AI</h3>
-<p align="center"><sub>Tic-tac-toe vs a minimax agent that has never lost. Click any ⬜. It opens an issue; hit <b>Create</b> and the board updates in ~30s.</sub></p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/v3/sec-03-d.svg"><img src="assets/v3/sec-03-l.svg" width="100%" alt="(03) Play. A game against a machine that does not lose."></picture>
 
 <!--GAME:START-->
 
-<table align="center"><tr><td align="center" width="64" height="64"><h2>⭕</h2></td><td align="center" width="64" height="64"><h2><a href="https://github.com/Neel-Kachhadia/Neel-Kachhadia/issues/new?title=ttt%7C1&body=Just%20press%20%2A%2ACreate%2A%2A%20%F0%9F%91%87.%20The%20arcade%20bot%20replies%20in%20about%2030%20seconds%20and%20the%20board%20on%20the%20profile%20updates.">⬜</a></h2></td><td align="center" width="64" height="64"><h2><a href="https://github.com/Neel-Kachhadia/Neel-Kachhadia/issues/new?title=ttt%7C2&body=Just%20press%20%2A%2ACreate%2A%2A%20%F0%9F%91%87.%20The%20arcade%20bot%20replies%20in%20about%2030%20seconds%20and%20the%20board%20on%20the%20profile%20updates.">⬜</a></h2></td></tr>
-<tr><td align="center" width="64" height="64"><h2><a href="https://github.com/Neel-Kachhadia/Neel-Kachhadia/issues/new?title=ttt%7C3&body=Just%20press%20%2A%2ACreate%2A%2A%20%F0%9F%91%87.%20The%20arcade%20bot%20replies%20in%20about%2030%20seconds%20and%20the%20board%20on%20the%20profile%20updates.">⬜</a></h2></td><td align="center" width="64" height="64"><h2>❌</h2></td><td align="center" width="64" height="64"><h2><a href="https://github.com/Neel-Kachhadia/Neel-Kachhadia/issues/new?title=ttt%7C5&body=Just%20press%20%2A%2ACreate%2A%2A%20%F0%9F%91%87.%20The%20arcade%20bot%20replies%20in%20about%2030%20seconds%20and%20the%20board%20on%20the%20profile%20updates.">⬜</a></h2></td></tr>
-<tr><td align="center" width="64" height="64"><h2><a href="https://github.com/Neel-Kachhadia/Neel-Kachhadia/issues/new?title=ttt%7C6&body=Just%20press%20%2A%2ACreate%2A%2A%20%F0%9F%91%87.%20The%20arcade%20bot%20replies%20in%20about%2030%20seconds%20and%20the%20board%20on%20the%20profile%20updates.">⬜</a></h2></td><td align="center" width="64" height="64"><h2><a href="https://github.com/Neel-Kachhadia/Neel-Kachhadia/issues/new?title=ttt%7C7&body=Just%20press%20%2A%2ACreate%2A%2A%20%F0%9F%91%87.%20The%20arcade%20bot%20replies%20in%20about%2030%20seconds%20and%20the%20board%20on%20the%20profile%20updates.">⬜</a></h2></td><td align="center" width="64" height="64"><h2><a href="https://github.com/Neel-Kachhadia/Neel-Kachhadia/issues/new?title=ttt%7C8&body=Just%20press%20%2A%2ACreate%2A%2A%20%F0%9F%91%87.%20The%20arcade%20bot%20replies%20in%20about%2030%20seconds%20and%20the%20board%20on%20the%20profile%20updates.">⬜</a></h2></td></tr></table>
-<p align="center">Last move by <b>@Neel-Kachhadia</b>. Anyone can continue this game!</p>
-<p align="center"><b>Humans 🏆 0</b> &nbsp;·&nbsp; Draws 🤝 0 &nbsp;·&nbsp; AI 🤖 0 &nbsp;·&nbsp; <sub>0 games played</sub></p>
-<p align="center"><sub>Recent: <i>No games yet. Be the first!</i></sub></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v3/cell-0-o-d.svg"><img src="assets/v3/cell-0-o-l.svg" width="96" alt="A1 O"></picture><a href="https://github.com/Neel-Kachhadia/Neel-Kachhadia/issues/new?title=ttt%7C1&body=Press%20%2A%2ACreate%2A%2A.%20A%20bot%20plays%20the%20reply%20and%20updates%20the%20board%20on%20the%20profile%20in%20about%2030%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v3/cell-1-e-d.svg"><img src="assets/v3/cell-1-e-l.svg" width="96" alt="B1"></picture></a><a href="https://github.com/Neel-Kachhadia/Neel-Kachhadia/issues/new?title=ttt%7C2&body=Press%20%2A%2ACreate%2A%2A.%20A%20bot%20plays%20the%20reply%20and%20updates%20the%20board%20on%20the%20profile%20in%20about%2030%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v3/cell-2-e-d.svg"><img src="assets/v3/cell-2-e-l.svg" width="96" alt="C1"></picture></a><br><a href="https://github.com/Neel-Kachhadia/Neel-Kachhadia/issues/new?title=ttt%7C3&body=Press%20%2A%2ACreate%2A%2A.%20A%20bot%20plays%20the%20reply%20and%20updates%20the%20board%20on%20the%20profile%20in%20about%2030%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v3/cell-3-e-d.svg"><img src="assets/v3/cell-3-e-l.svg" width="96" alt="A2"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v3/cell-4-x-d.svg"><img src="assets/v3/cell-4-x-l.svg" width="96" alt="B2 X"></picture><a href="https://github.com/Neel-Kachhadia/Neel-Kachhadia/issues/new?title=ttt%7C5&body=Press%20%2A%2ACreate%2A%2A.%20A%20bot%20plays%20the%20reply%20and%20updates%20the%20board%20on%20the%20profile%20in%20about%2030%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v3/cell-5-e-d.svg"><img src="assets/v3/cell-5-e-l.svg" width="96" alt="C2"></picture></a><br><a href="https://github.com/Neel-Kachhadia/Neel-Kachhadia/issues/new?title=ttt%7C6&body=Press%20%2A%2ACreate%2A%2A.%20A%20bot%20plays%20the%20reply%20and%20updates%20the%20board%20on%20the%20profile%20in%20about%2030%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v3/cell-6-e-d.svg"><img src="assets/v3/cell-6-e-l.svg" width="96" alt="A3"></picture></a><a href="https://github.com/Neel-Kachhadia/Neel-Kachhadia/issues/new?title=ttt%7C7&body=Press%20%2A%2ACreate%2A%2A.%20A%20bot%20plays%20the%20reply%20and%20updates%20the%20board%20on%20the%20profile%20in%20about%2030%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v3/cell-7-e-d.svg"><img src="assets/v3/cell-7-e-l.svg" width="96" alt="B3"></picture></a><a href="https://github.com/Neel-Kachhadia/Neel-Kachhadia/issues/new?title=ttt%7C8&body=Press%20%2A%2ACreate%2A%2A.%20A%20bot%20plays%20the%20reply%20and%20updates%20the%20board%20on%20the%20profile%20in%20about%2030%20seconds."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v3/cell-8-e-d.svg"><img src="assets/v3/cell-8-e-l.svg" width="96" alt="C3"></picture></a></p>
+<p align="center"><sub>Game in progress. Last move by <a href="https://github.com/Neel-Kachhadia">@Neel-Kachhadia</a>. Anyone can continue it.</sub></p>
+<p align="center"><sub>HUMANS 0 &nbsp;&middot;&nbsp; MACHINE 0 &nbsp;&middot;&nbsp; DRAWS 0</sub></p>
 
 <!--GAME:END-->
 
-<h3 align="center">🗳️ You decide what I build next</h3>
-<p align="center"><sub>The winner becomes my next open-source project.</sub></p>
+<br>
 
-<!--POLL:START-->
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/v3/sec-04-d.svg"><img src="assets/v3/sec-04-l.svg" width="100%" alt="(04) Guestbook"></picture>
 
-| | Vote | Momentum |
-|:--|:--:|:--|
-| ⚡ C++ low-latency backtesting engine | [**Vote →**](https://github.com/Neel-Kachhadia/Neel-Kachhadia/issues/new?title=vote%7Cquant&body=Press%20%2A%2ACreate%2A%2A%20to%20cast%20your%20vote%20%F0%9F%97%B3%EF%B8%8F.%20One%20vote%20per%20person.) | `░░░░░░░░░░░░` 0 |
-| 🦀 Rust key-value store with Raft | [**Vote →**](https://github.com/Neel-Kachhadia/Neel-Kachhadia/issues/new?title=vote%7Craft&body=Press%20%2A%2ACreate%2A%2A%20to%20cast%20your%20vote%20%F0%9F%97%B3%EF%B8%8F.%20One%20vote%20per%20person.) | `░░░░░░░░░░░░` 0 |
-| 🧠 Multi-agent research OS | [**Vote →**](https://github.com/Neel-Kachhadia/Neel-Kachhadia/issues/new?title=vote%7Cagents&body=Press%20%2A%2ACreate%2A%2A%20to%20cast%20your%20vote%20%F0%9F%97%B3%EF%B8%8F.%20One%20vote%20per%20person.) | `░░░░░░░░░░░░` 0 |
-| 🎛️ GPU cluster scheduler for LLMs | [**Vote →**](https://github.com/Neel-Kachhadia/Neel-Kachhadia/issues/new?title=vote%7Cgpu&body=Press%20%2A%2ACreate%2A%2A%20to%20cast%20your%20vote%20%F0%9F%97%B3%EF%B8%8F.%20One%20vote%20per%20person.) | `░░░░░░░░░░░░` 0 |
-
-<!--POLL:END-->
-
-<h3 align="center">👋 The Visitor Wall</h3>
-<p align="center"><sub>Leave your mark: <a href="https://github.com/Neel-Kachhadia/Neel-Kachhadia/issues/new?title=wave&body=Press%20**Create**%20and%20your%20avatar%20joins%20the%20wall%20%F0%9F%91%8B">click here to wave</a>, and your avatar appears below forever (well, until 30 newer people wave).</sub></p>
+<p align="center"><sub><a href="https://github.com/Neel-Kachhadia/Neel-Kachhadia/issues/new?title=wave&body=Press%20**Create**.%20Your%20avatar%20joins%20the%20page%20in%20about%2030%20seconds.">Sign the guestbook&nbsp;&#8599;</a> &nbsp; Your avatar stays on this page.</sub></p>
 
 <!--WALL:START-->
 
-<p align="center"><i>The wall is empty... for now.</i></p>
+<p align="center"><sub>Nobody yet. Be the first.</sub></p>
 
 <!--WALL:END-->
 
-<img src="assets/pulse.svg" width="100%"/>
-
-## 🕹️ Enter the Machine &nbsp;<sub><sup>a text adventure through my work</sup></sub>
-
-> *You wake up inside a humming server rack. Four doors glow in the dark. Somewhere, a vault is waiting for the four key fragments.*
+<br>
 
 <details>
-<summary><b>🚪 Door 1: the room where every millisecond is taxed</b></summary>
-<blockquote>
+<summary><sub>COLOPHON</sub></summary>
+<br>
 
-Thousands of RPCs scream past you. Some replicas are slow, some are dying. A calm traffic controller decides, in microseconds, where each request goes, when to hedge, and when to say no.
+Set in Instrument Serif and JetBrains Mono, subset and embedded in hand-written SVG. The portrait is my avatar, cut out and reduced to 1-bit with Floyd–Steinberg dithering. Every piece adapts to light and dark mode.
 
-This is **[ARTC](https://github.com/Neel-Kachhadia/ARTC)**, my C++23 gRPC tail-latency controller. It survived a one-hour soak: **900,000 / 900,000 requests, p99 1.73 ms**, zero rejections.
+The board is real. Clicking a square opens an issue; a GitHub Action reads it, lets a minimax opponent reply, rewrites this README and closes the issue. The source is in [`arcade/`](arcade/arcade.py).
 
-<details>
-<summary>🔦 Look behind the server</summary>
-<blockquote>
+The longer version of all this lives at [neel-os.vercel.app](https://neel-os.vercel.app).
 
-A sticky note: *"CPU utilization is telemetry, not proof."* It's signed by **[FleetRight](https://github.com/Neel-Kachhadia/FleetRight)**, a capacity planner that shrinks Kubernetes fleets only when a C++ verifier proves p99 still holds.
-
-🗝️ **You found key fragment #1: `B`**
-</blockquote>
 </details>
-</blockquote>
-</details>
-
-<details>
-<summary><b>🚪 Door 2: the room full of warm GPUs</b></summary>
-<blockquote>
-
-A single RTX 4060 hums. Dozens of prompts wait in line, and some of them are impatient humans. A scheduler hands out service credits, ages old requests and protects decoding streams.
-
-This is **[InferScale](https://github.com/Neel-Kachhadia/InferScale)**, my C++20 LLM inference runtime. Its SA-WDS scheduler cut interactive TTFT p99 from **471 ms to 442 ms**, and the trade-offs are documented honestly.
-
-<details>
-<summary>🔦 Read the log on the screen</summary>
-<blockquote>
-
-`151 of 156 benchmark arms marked INVALID_THERMAL.` Rule #1 of benchmarking: the laptop fan is part of the experiment. 🌡️
-
-🗝️ **You found key fragment #2: `U`**
-</blockquote>
-</details>
-</blockquote>
-</details>
-
-<details>
-<summary><b>🚪 Door 3: a vault guarded by an AI with a credit card</b></summary>
-<blockquote>
-
-An AI agent wants to buy something. It doesn't get a card. It gets a **cryptographically signed mandate**: how much, where, until when. A two-phase reservation engine makes sure ten parallel agents can't overspend the same budget.
-
-This is **[KavachPay](https://github.com/Neel-Kachhadia/KavachPay)**: *"Authority is not access. It is a bound contract."*
-
-<details>
-<summary>🔦 Try to bribe the guard</summary>
-<blockquote>
-
-The guard prints a signed decision receipt: `DENY: negative constraint violated`. Nice try. 😏
-
-🗝️ **You found key fragment #3: `I`**
-</blockquote>
-</details>
-</blockquote>
-</details>
-
-<details>
-<summary><b>🚪 Door 4: a trading floor that fits inside a laptop</b></summary>
-<blockquote>
-
-NIFTY ticks stream in live. Option chains, Greeks, an IV surface rotating in 3D, futures basis, screeners, all local-first in a Rust + Tauri shell with a Python analytics brain.
-
-This is **[BharatTerminal](https://github.com/Neel-Kachhadia/indian-terminal)**, a research terminal for Indian equities & F&O.
-
-<details>
-<summary>🔦 Check the drawer</summary>
-<blockquote>
-
-You find the blueprints of where it all began: **[NeuroFin](https://github.com/Neel-Kachhadia/NeuroFin)** (an agentic finance co-pilot, [demo 🎥](https://youtu.be/e44duKUrC7k)) and an **[Equity Research](https://github.com/Neel-Kachhadia/Equity-research-platform)** platform built on LangGraph.
-
-🗝️ **You found key fragment #4: `L`**
-</blockquote>
-</details>
-</blockquote>
-</details>
-
-<details>
-<summary><b>🔐 The Vault: enter the 4 fragments</b></summary>
-<blockquote>
-
-<details>
-<summary><code>U I L B</code> ❌</summary>
-<blockquote>🚨 Access denied. Order matters. Try the doors again.</blockquote>
-</details>
-<details>
-<summary><code>L I B U</code> ❌</summary>
-<blockquote>🚨 Access denied. That's not even a word.</blockquote>
-</details>
-<details>
-<summary><code>B U I L</code> ✅</summary>
-<blockquote>
-
-🔓 *The vault hisses open...*
-
-**...D.** The last fragment was always yours to bring.
-
-You made it to the end of the machine, which puts you in the rare 1% of profile visitors. If you're hiring, building something ambitious, or just want to talk systems / AI / markets:
-
-### → [Let's build something together](https://www.linkedin.com/in/neelkachhadia/)
-
-<sub>P.S. Tell me you found the vault. I'll know you're the curious type. 🫡</sub>
-</blockquote>
-</details>
-</blockquote>
-</details>
-
-<img src="assets/pulse.svg" width="100%"/>
-
-## 🎧 The Stack
-
-<div align="center">
-<img src="assets/equalizer.svg" width="100%" alt="Neel's tech stack as an equalizer"/>
-</div>
-
-<details>
-<summary><b>🧪 Run <code>neel --stats</code></b></summary>
-<br/>
-<div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Neel-Kachhadia&show_icons=true&hide_border=true&count_private=true&bg_color=070914&title_color=5ef1ff&icon_color=ff6ad5&text_color=c7cdee" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neel-Kachhadia&layout=compact&hide_border=true&langs_count=8&bg_color=070914&title_color=5ef1ff&text_color=c7cdee" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Neel-Kachhadia&bg_color=070914&color=c7cdee&line=a78bfa&point=5ef1ff&area=true&area_color=a78bfa&hide_border=true" width="100%"/>
-</div>
-</details>
-
-<details>
-<summary><b>🚫 Do not click this</b></summary>
-<blockquote>
-<details>
-<summary>Seriously. Don't.</summary>
-<blockquote>
-<details>
-<summary>OK, last warning. ⚠️</summary>
-<blockquote>
-<details>
-<summary>You really don't follow instructions, huh?</summary>
-<blockquote>
-
-🏆 **Achievement unlocked: _Curiosity > Compliance_**
-
-That's exactly the trait I look for in teammates. Now go [beat my AI](#-beat-my-ai) ⬆️
-
-</blockquote>
-</details>
-</blockquote>
-</details>
-</blockquote>
-</details>
-</blockquote>
-</details>
-
-<div align="center">
-<br/>
-<sub><code>// this README is updated by a GitHub Action every time someone plays. it's never the same twice.</code></sub>
-</div>
