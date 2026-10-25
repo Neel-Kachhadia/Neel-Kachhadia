@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320">
+<style>.mono{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+.c{animation:g .5s cubic-bezier(.2,.8,.2,1) both;transform-box:fill-box;transform-origin:bottom}@keyframes g{from{transform:scaleY(0);opacity:0}to{transform:scaleY(1);opacity:1}}
+.l{stroke-dasharray:1400;stroke-dashoffset:1400;animation:d 3.4s ease .2s forwards}@keyframes d{to{stroke-dashoffset:0}}
+.lb{animation:o .4s ease both}@keyframes o{from{opacity:0}to{opacity:1}}
+.dot{animation:p 1.4s ease-in-out infinite}@keyframes p{50%{r:9;opacity:.3}}</style>
+<rect width="1000" height="320" rx="10" fill="#0b0e14"/>
+<text x="24" y="30" class="mono" font-size="14" font-weight="700" fill="#ffb000">NEEL.K</text>
+<text x="90" y="30" class="mono" font-size="13" fill="#6b7a90">· BUILD HISTORY · 1 candle = 1 shipped system · complexity ▲</text>
+<text x="976" y="30" text-anchor="end" class="mono" font-size="13" fill="#00d27a">ALL-TIME HIGH ▲</text>
+<line x1="60" x2="960" y1="50" y2="50" stroke="#1a2230" stroke-dasharray="3 5"/>
+<line x1="60" x2="960" y1="102" y2="102" stroke="#1a2230" stroke-dasharray="3 5"/>
+<line x1="60" x2="960" y1="155" y2="155" stroke="#1a2230" stroke-dasharray="3 5"/>
+<line x1="60" x2="960" y1="208" y2="208" stroke="#1a2230" stroke-dasharray="3 5"/>
+<line x1="60" x2="960" y1="260" y2="260" stroke="#1a2230" stroke-dasharray="3 5"/>
+<g class="c" style="animation-delay:0.00s"><line x1="116" x2="116" y1="227" y2="271" stroke="#00d27a" stroke-width="2"/><rect x="102" y="237" width="28" height="23" rx="2" fill="#00d27a"/></g>
+<text x="116" y="284" text-anchor="middle" class="mono lb" style="animation-delay:0.00s" font-size="12" fill="#c9d4e3">NeuroFin</text>
+<g class="c" style="animation-delay:0.38s"><line x1="229" x2="229" y1="201" y2="242" stroke="#00d27a" stroke-width="2"/><rect x="215" y="214" width="28" height="19" rx="2" fill="#00d27a"/></g>
+<text x="229" y="284" text-anchor="middle" class="mono lb" style="animation-delay:0.38s" font-size="12" fill="#c9d4e3">Equity Rsrch</text>
+<g class="c" style="animation-delay:0.76s"><line x1="341" x2="341" y1="178" y2="216" stroke="#00d27a" stroke-width="2"/><rect x="327" y="185" width="28" height="16" rx="2" fill="#00d27a"/></g>
+<text x="341" y="284" text-anchor="middle" class="mono lb" style="animation-delay:0.76s" font-size="12" fill="#c9d4e3">Mentora</text>
+<g class="c" style="animation-delay:1.14s"><line x1="454" x2="454" y1="159" y2="200" stroke="#00d27a" stroke-width="2"/><rect x="440" y="168" width="28" height="25" rx="2" fill="#00d27a"/></g>
+<text x="454" y="284" text-anchor="middle" class="mono lb" style="animation-delay:1.14s" font-size="12" fill="#c9d4e3">KavachPay</text>
+<g class="c" style="animation-delay:1.52s"><line x1="566" x2="566" y1="129" y2="177" stroke="#00d27a" stroke-width="2"/><rect x="552" y="145" width="28" height="25" rx="2" fill="#00d27a"/></g>
+<text x="566" y="284" text-anchor="middle" class="mono lb" style="animation-delay:1.52s" font-size="12" fill="#c9d4e3">BharatTerm</text>
+<g class="c" style="animation-delay:1.90s"><line x1="679" x2="679" y1="108" y2="157" stroke="#00d27a" stroke-width="2"/><rect x="665" y="122" width="28" height="22" rx="2" fill="#00d27a"/></g>
+<text x="679" y="284" text-anchor="middle" class="mono lb" style="animation-delay:1.90s" font-size="12" fill="#c9d4e3">ARTC</text>
+<g class="c" style="animation-delay:2.28s"><line x1="791" x2="791" y1="87" y2="140" stroke="#00d27a" stroke-width="2"/><rect x="777" y="99" width="28" height="27" rx="2" fill="#00d27a"/></g>
+<text x="791" y="284" text-anchor="middle" class="mono lb" style="animation-delay:2.28s" font-size="12" fill="#c9d4e3">InferScale</text>
+<g class="c" style="animation-delay:2.66s"><line x1="904" x2="904" y1="59" y2="103" stroke="#00d27a" stroke-width="2"/><rect x="890" y="76" width="28" height="19" rx="2" fill="#00d27a"/></g>
+<text x="904" y="284" text-anchor="middle" class="mono lb" style="animation-delay:2.66s" font-size="12" fill="#c9d4e3">FleetRight</text>
+<path d="M116,223 L229,200 L341,171 L454,154 L566,131 L679,108 L791,85 L904,62" fill="none" stroke="#36bcf7" stroke-width="2" class="l"/>
+<circle cx="904" cy="62" r="5" fill="#36bcf7" class="dot"/>
+<text x="500" y="306" text-anchor="middle" class="mono" font-size="11" fill="#4a5568">web apps → AI agents → fintech infra → C++ low-latency systems</text>
+</svg>
