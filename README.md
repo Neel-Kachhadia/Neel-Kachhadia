@@ -17,12 +17,8 @@
 
 ## 🎮 This profile is alive. Play with it.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 <h3 align="center">⚔️ Beat my AI</h3>
-<p align="center"><sub>Tic-tac-toe vs a minimax agent that has never lost.<br/>Click any ⬜. It opens an issue; hit <b>Create</b> and the board updates in ~30s.</sub></p>
+<p align="center"><sub>Tic-tac-toe vs a minimax agent that has never lost. Click any ⬜. It opens an issue; hit <b>Create</b> and the board updates in ~30s.</sub></p>
 
 <!--GAME:START-->
 
@@ -35,9 +31,6 @@
 
 <!--GAME:END-->
 
-</td>
-<td width="50%" valign="top">
-
 <h3 align="center">🗳️ You decide what I build next</h3>
 <p align="center"><sub>The winner becomes my next open-source project.</sub></p>
 
@@ -45,16 +38,12 @@
 
 | | Vote | Momentum |
 |:--|:--:|:--|
-| ⚡ C++ low-latency backtesting engine | [**Vote →**](https://github.com/Neel-Kachhadia/Neel-Kachhadia/issues/new?title=vote%7Cquant&body=Press%20%2A%2ACreate%2A%2A%20to%20cast%20your%20vote%20%F0%9F%97%B3%EF%B8%8F.%20One%20vote%20per%20person.) | `░░░░░░░░░░░░░░░░░░░░` 0 |
-| 🦀 Rust key-value store with Raft | [**Vote →**](https://github.com/Neel-Kachhadia/Neel-Kachhadia/issues/new?title=vote%7Craft&body=Press%20%2A%2ACreate%2A%2A%20to%20cast%20your%20vote%20%F0%9F%97%B3%EF%B8%8F.%20One%20vote%20per%20person.) | `░░░░░░░░░░░░░░░░░░░░` 0 |
-| 🧠 Multi-agent research OS | [**Vote →**](https://github.com/Neel-Kachhadia/Neel-Kachhadia/issues/new?title=vote%7Cagents&body=Press%20%2A%2ACreate%2A%2A%20to%20cast%20your%20vote%20%F0%9F%97%B3%EF%B8%8F.%20One%20vote%20per%20person.) | `░░░░░░░░░░░░░░░░░░░░` 0 |
-| 🎛️ GPU cluster scheduler for LLMs | [**Vote →**](https://github.com/Neel-Kachhadia/Neel-Kachhadia/issues/new?title=vote%7Cgpu&body=Press%20%2A%2ACreate%2A%2A%20to%20cast%20your%20vote%20%F0%9F%97%B3%EF%B8%8F.%20One%20vote%20per%20person.) | `░░░░░░░░░░░░░░░░░░░░` 0 |
+| ⚡ C++ low-latency backtesting engine | [**Vote →**](https://github.com/Neel-Kachhadia/Neel-Kachhadia/issues/new?title=vote%7Cquant&body=Press%20%2A%2ACreate%2A%2A%20to%20cast%20your%20vote%20%F0%9F%97%B3%EF%B8%8F.%20One%20vote%20per%20person.) | `░░░░░░░░░░░░` 0 |
+| 🦀 Rust key-value store with Raft | [**Vote →**](https://github.com/Neel-Kachhadia/Neel-Kachhadia/issues/new?title=vote%7Craft&body=Press%20%2A%2ACreate%2A%2A%20to%20cast%20your%20vote%20%F0%9F%97%B3%EF%B8%8F.%20One%20vote%20per%20person.) | `░░░░░░░░░░░░` 0 |
+| 🧠 Multi-agent research OS | [**Vote →**](https://github.com/Neel-Kachhadia/Neel-Kachhadia/issues/new?title=vote%7Cagents&body=Press%20%2A%2ACreate%2A%2A%20to%20cast%20your%20vote%20%F0%9F%97%B3%EF%B8%8F.%20One%20vote%20per%20person.) | `░░░░░░░░░░░░` 0 |
+| 🎛️ GPU cluster scheduler for LLMs | [**Vote →**](https://github.com/Neel-Kachhadia/Neel-Kachhadia/issues/new?title=vote%7Cgpu&body=Press%20%2A%2ACreate%2A%2A%20to%20cast%20your%20vote%20%F0%9F%97%B3%EF%B8%8F.%20One%20vote%20per%20person.) | `░░░░░░░░░░░░` 0 |
 
 <!--POLL:END-->
-
-</td>
-</tr>
-</table>
 
 <h3 align="center">👋 The Visitor Wall</h3>
 <p align="center"><sub>Leave your mark: <a href="https://github.com/Neel-Kachhadia/Neel-Kachhadia/issues/new?title=wave&body=Press%20**Create**%20and%20your%20avatar%20joins%20the%20wall%20%F0%9F%91%8B">click here to wave</a>, and your avatar appears below forever (well, until 30 newer people wave).</sub></p>
