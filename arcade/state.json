@@ -1,0 +1,29 @@
+{
+ "board": [
+  " ",
+  " ",
+  " ",
+  " ",
+  " ",
+  " ",
+  " ",
+  " ",
+  " "
+ ],
+ "turn_log": [],
+ "stats": {
+  "human": 0,
+  "ai": 0,
+  "draw": 0
+ },
+ "games": 0,
+ "recent": [],
+ "votes": {
+  "quant": 0,
+  "raft": 0,
+  "agents": 0,
+  "gpu": 0
+ },
+ "voters": {},
+ "wall": []
+}
