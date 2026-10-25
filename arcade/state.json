@@ -1,16 +1,18 @@
 {
  "board": [
+  "O",
   " ",
   " ",
   " ",
-  " ",
-  " ",
+  "X",
   " ",
   " ",
   " ",
   " "
  ],
- "turn_log": [],
+ "turn_log": [
+  "Neel-Kachhadia"
+ ],
  "stats": {
   "human": 0,
   "ai": 0,
